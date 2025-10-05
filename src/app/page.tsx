@@ -9,7 +9,7 @@ export default function Home() {
           <h1 className="font-bold text-4xl">RpR-Pc</h1>
           <address>Dhaka Bangladesh</address>
           <p>Open Daily: 9am to 5pm</p>
-          <Link href={"tel:01400139998"}>01400139998</Link>
+          <Link href={"mailto:parvajio25@gmail.com"}>parvajio25@gmail.com</Link>
         </div>
       </main>
     </div>
